@@ -128,8 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="MapProject.cpp" />
-    <ClCompile Include="schedule.cpp" />
-    <ClCompile Include="scheduleItem.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="schedule.h" />

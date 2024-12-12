@@ -18,12 +18,6 @@
     <ClCompile Include="MapProject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="scheduleItem.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="schedule.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="scheduleItem.h">
