@@ -56,8 +56,7 @@ public:
 	}
 
 	bool operator>=(const scheduleItem& key) const {
-		string actualKey = subject + "_" + catalog + "_" + section;
-		string otherKey = key.subject + key.catalog + key.section;
+		string keyy = subject + "_" + catalog + "_" + section;
 	}
 
 	void print() const {
